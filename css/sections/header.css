@@ -1,0 +1,28 @@
+.header__row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.header__title {
+    margin-bottom: 20px;
+}
+
+.header__description {
+    margin-bottom: 50px;
+}
+
+.header__button {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+
+    padding: 7px 24px;
+    border: 1px solid #000;
+    border-radius: 30px;
+}
+
+.header__button:hover {
+    color: #5d5d5d;
+    transition: 0.2s ease-in;
+}

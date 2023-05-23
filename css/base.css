@@ -1,0 +1,25 @@
+/* Connecting Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 59px;
+    color: #000000;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 78px;
+    color: #000000;
+}
+
+.container {
+    max-width: 1760px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+

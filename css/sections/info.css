@@ -1,0 +1,16 @@
+.info {
+    padding: 50px 0;
+}
+.info__row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.info__title {
+    margin-bottom: 20px;
+}
+
+.info__content {
+    max-width: 1140px;
+}

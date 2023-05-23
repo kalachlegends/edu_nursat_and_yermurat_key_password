@@ -1,0 +1,32 @@
+.table {
+    padding: 50px 0;
+}
+
+.table__row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.table__title {
+    margin-bottom: 50px;
+}
+
+.star__row {
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+}
+
+table {
+    border-collapse: collapse;
+  }
+
+  /* Удаление границ ячеек */
+  td {
+    border: none;
+    padding: 10px;
+  }
+  tr {
+    margin-right: 30px;
+  }
